@@ -1,5 +1,6 @@
 print ("Alejandra Castillo")
-ptint ("ADSO")
+print ("ADSO")
+print ("19 años")
     
 
     
